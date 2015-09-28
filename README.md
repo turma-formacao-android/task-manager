@@ -57,3 +57,4 @@
 <hr/>
 
 <p>Qualquer dúvida estamos a disposição!</p>
+<p>Link para enteresse em novos cursos: https://docs.google.com/forms/d/1grGnj_WjHKjUpztLY-XpD4_u3xBVOQ8GNakfkJCpVts/viewform</p>
